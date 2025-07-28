@@ -33,3 +33,30 @@ button {
   margin-top: 20px;
   font-weight: bold;
 }
+
+.result-success {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  padding: 12px;
+  margin-top: 20px;
+  border-radius: 6px;
+}
+
+.result-warning {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+  padding: 12px;
+  margin-top: 20px;
+  border-radius: 6px;
+}
+
+.result-neutral {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 12px;
+  margin-top: 20px;
+  border-radius: 6px;
+}
